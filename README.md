@@ -1,3 +1,3 @@
-# WiFI Scanning using CapSense
+# WiFi Scanning using CapSense
 
 In this code example, CapSense buttons are used to run WiFi Scan.
