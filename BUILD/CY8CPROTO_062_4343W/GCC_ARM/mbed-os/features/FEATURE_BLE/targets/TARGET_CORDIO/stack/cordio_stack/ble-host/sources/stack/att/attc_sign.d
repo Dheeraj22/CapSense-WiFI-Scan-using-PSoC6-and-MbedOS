@@ -1,0 +1,33 @@
+BUILD\CY8CPROTO_062_4343W\GCC_ARM\mbed-os\features\FEATURE_BLE\targets\TARGET_CORDIO\stack\cordio_stack\ble-host\sources\stack\att\attc_sign.o: \
+ mbed-os\features\FEATURE_BLE\targets\TARGET_CORDIO\stack\cordio_stack\ble-host\sources\stack\att\attc_sign.c \
+ BUILD\CY8CPROTO_062_4343W\GCC_ARM\mbed_config.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/wsf/common/include/wsf_types.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/wsf/common/include/wsf_buf.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/wsf/common/include/wsf_msg.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/wsf/common/include/wsf_queue.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/wsf/common/include/wsf_os.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/ble-host/include/sec_api.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/wsf/common/include/util/bstream.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/wsf/common/include/util/bda.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/wsf/common/include/util/calc128.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/wsf/common/include/util/wstr.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/ble-host/include/att_api.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/wsf/common/include/wsf_timer.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/ble-host/include/att_defs.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/ble-host/include/att_uuid.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/ble-host/include/dm_api.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/ble-host/include/hci_api.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/platform/common/include/hci_defs.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/wsf/common/include/wsf_os.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/ble-host/sources/stack/cfg/cfg_stack.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/ble-host/include/smp_defs.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/ble-host/include/sec_api.h \
+ mbed-os\features\FEATURE_BLE\targets\TARGET_CORDIO\stack\cordio_stack\ble-host\sources\stack\att\att_main.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/wsf/common/include/wsf_queue.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/ble-host/include/l2c_api.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/ble-host/include/l2c_defs.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/ble-host/include/dm_api.h \
+ mbed-os\features\FEATURE_BLE\targets\TARGET_CORDIO\stack\cordio_stack\ble-host\sources\stack\att\attc_main.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/wsf/common/include/wsf_assert.h \
+ mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/stack/cordio_stack/wsf/common/include/wsf_trace.h \
+ mbed-os\features\FEATURE_BLE\targets\TARGET_CORDIO\stack\cordio_stack\ble-host\sources\stack\att\att_sign.h

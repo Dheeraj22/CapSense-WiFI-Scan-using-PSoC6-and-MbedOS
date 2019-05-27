@@ -1,0 +1,33 @@
+BUILD\CY8CPROTO_062_4343W\GCC_ARM\mbed-os\targets\TARGET_Cypress\TARGET_PSOC6\psoc6pdl\drivers\source\cy_device.o: \
+ mbed-os\targets\TARGET_Cypress\TARGET_PSOC6\psoc6pdl\drivers\source\cy_device.c \
+ BUILD\CY8CPROTO_062_4343W\GCC_ARM\mbed_config.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/drivers/include/cy_device.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_cpuss.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_headers.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_cpuss_v2.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_flashc.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_flashc_v2.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_gpio.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_gpio_v2.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_hsiom.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_hsiom_v2.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_sflash.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_srss.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_backup.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_peri.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_peri_v2.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_peri_ms_v2.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_profile.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_prot.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_prot_v2.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_ipc.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_ipc_v2.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_udb.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_dw.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_dw_v2.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_dmac_v2.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_i2s.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_pdm.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_lcd.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_sdhc.h \
+ mbed-os/targets/TARGET_Cypress/TARGET_PSOC6/psoc6pdl/devices/include/ip/cyip_smartio.h

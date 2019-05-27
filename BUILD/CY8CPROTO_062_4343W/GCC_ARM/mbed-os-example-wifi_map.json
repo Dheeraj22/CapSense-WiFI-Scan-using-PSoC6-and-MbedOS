@@ -1,0 +1,329 @@
+[
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 123, 
+            ".data": 7, 
+            ".bss-delta": 0, 
+            ".text": 348
+        }
+    }, 
+    {
+        "module": "[lib]\\c.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 89, 
+            ".data": 2472, 
+            ".bss-delta": 0, 
+            ".text": 32891
+        }
+    }, 
+    {
+        "module": "[lib]\\cy_capsense.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 1538
+        }
+    }, 
+    {
+        "module": "[lib]\\gcc.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 3248
+        }
+    }, 
+    {
+        "module": "[lib]\\misc", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 28, 
+            ".data": 16, 
+            ".bss-delta": 0, 
+            ".text": 252
+        }
+    }, 
+    {
+        "module": "[lib]\\nosys.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 32
+        }
+    }, 
+    {
+        "module": "[lib]\\stdc++.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 1
+        }
+    }, 
+    {
+        "module": "[lib]\\wiced_drivers.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 4290, 
+            ".data": 112, 
+            ".bss-delta": 0, 
+            ".text": 419312
+        }
+    }, 
+    {
+        "module": "[misc]", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 88, 
+            ".bss-delta": 0, 
+            ".text": 8
+        }
+    }, 
+    {
+        "module": "capsense\\cy_capsense_centroid.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 4312
+        }
+    }, 
+    {
+        "module": "capsense\\cy_capsense_control.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 525
+        }
+    }, 
+    {
+        "module": "capsense\\cy_capsense_csd.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 3868
+        }
+    }, 
+    {
+        "module": "capsense\\cy_capsense_csx.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 1987
+        }
+    }, 
+    {
+        "module": "capsense\\cy_capsense_filter.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 806
+        }
+    }, 
+    {
+        "module": "capsense\\cy_capsense_processing.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 2228
+        }
+    }, 
+    {
+        "module": "capsense\\cy_capsense_sensing.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 4559
+        }
+    }, 
+    {
+        "module": "capsense\\cy_capsense_structure.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 158
+        }
+    }, 
+    {
+        "module": "capsense\\cy_capsense_tuner.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 510
+        }
+    }, 
+    {
+        "module": "cycfg_capsense.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 167, 
+            ".data": 304, 
+            ".bss-delta": 0, 
+            ".text": 620
+        }
+    }, 
+    {
+        "module": "main.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 196, 
+            ".data": 5, 
+            ".bss-delta": 0, 
+            ".text": 2529
+        }
+    }, 
+    {
+        "module": "mbed-os\\cmsis", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 84, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 1033
+        }
+    }, 
+    {
+        "module": "mbed-os\\components", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 282
+        }
+    }, 
+    {
+        "module": "mbed-os\\drivers", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 206
+        }
+    }, 
+    {
+        "module": "mbed-os\\events", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 1376
+        }
+    }, 
+    {
+        "module": "mbed-os\\features", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 10111, 
+            ".data": 107, 
+            ".bss-delta": 0, 
+            ".text": 50632
+        }
+    }, 
+    {
+        "module": "mbed-os\\hal", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 66, 
+            ".data": 4, 
+            ".bss-delta": 0, 
+            ".text": 1805
+        }
+    }, 
+    {
+        "module": "mbed-os\\platform", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 368, 
+            ".data": 260, 
+            ".bss-delta": 0, 
+            ".text": 4976
+        }
+    }, 
+    {
+        "module": "mbed-os\\rtos", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 5981, 
+            ".data": 168, 
+            ".bss-delta": 0, 
+            ".text": 11448
+        }
+    }, 
+    {
+        "module": "mbed-os\\targets", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 1009, 
+            ".data": 1185, 
+            ".bss-delta": 0, 
+            ".text": 22132
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 27240, 
+            "total_flash_delta": 0, 
+            "static_ram_delta": 0, 
+            "total_flash": 578350
+        }
+    }
+]
